@@ -1,0 +1,13 @@
+openai
+faiss-cpu
+pymupdf
+pandas
+numpy
+pyarrow
+sentence-transformers
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+gradio
+deepeval
